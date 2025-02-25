@@ -1,5 +1,4 @@
-function Ragu(p){
-    const newfile = [p]
-    console.log(newfile)
+function Ragu(a,b){
+    return a+b
 }
-Ragu("ragu")
+Ragu(18,35)
